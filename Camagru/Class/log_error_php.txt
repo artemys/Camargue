@@ -1,0 +1,398 @@
+[09-Jun-2016 11:35:54 Europe/Paris] PHP Notice:  Undefined variable: fname in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/sign_up.php on line 75
+[09-Jun-2016 11:35:54 Europe/Paris] PHP Notice:  Undefined variable: lname in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/sign_up.php on line 75
+[09-Jun-2016 11:36:01 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[09-Jun-2016 09:52:52 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[09-Jun-2016 09:52:52 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[09-Jun-2016 12:57:07 Europe/Paris] PHP Notice:  Undefined index: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 16
+[09-Jun-2016 12:57:07 Europe/Paris] PHP Notice:  Undefined index: confirm in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 17
+[09-Jun-2016 12:57:34 Europe/Paris] PHP Notice:  Undefined index: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 16
+[09-Jun-2016 12:57:34 Europe/Paris] PHP Notice:  Undefined index: confirm in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 17
+[09-Jun-2016 12:58:29 Europe/Paris] PHP Notice:  Undefined variable: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 22
+[09-Jun-2016 12:58:29 Europe/Paris] PHP Notice:  Undefined variable: confirm in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 22
+[09-Jun-2016 12:58:29 Europe/Paris] PHP Notice:  Undefined variable: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 24
+[09-Jun-2016 12:58:53 Europe/Paris] PHP Notice:  Undefined variable: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 26
+[09-Jun-2016 12:58:53 Europe/Paris] PHP Notice:  Undefined variable: confirm in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 26
+[09-Jun-2016 12:58:53 Europe/Paris] PHP Notice:  Undefined variable: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 28
+[09-Jun-2016 12:59:26 Europe/Paris] PHP Notice:  Undefined variable: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 26
+[09-Jun-2016 12:59:26 Europe/Paris] PHP Notice:  Undefined variable: confirm in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 26
+[09-Jun-2016 12:59:26 Europe/Paris] PHP Notice:  Undefined variable: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 28
+[09-Jun-2016 12:59:46 Europe/Paris] PHP Notice:  Undefined variable: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 27
+[09-Jun-2016 12:59:46 Europe/Paris] PHP Notice:  Undefined variable: confirm in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 27
+[09-Jun-2016 12:59:46 Europe/Paris] PHP Notice:  Undefined variable: newpass in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/password.php on line 29
+[09-Jun-2016 13:01:39 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[09-Jun-2016 11:38:48 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[09-Jun-2016 11:38:48 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[09-Jun-2016 11:39:02 UTC] PHP Notice:  Undefined index: user_session in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 19
+[09-Jun-2016 11:39:09 UTC] PHP Notice:  Undefined index: user_session in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 19
+[09-Jun-2016 11:39:14 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[09-Jun-2016 11:39:14 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[09-Jun-2016 11:39:23 UTC] PHP Notice:  Undefined index: user_session in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 19
+[09-Jun-2016 11:43:57 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[09-Jun-2016 11:43:57 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[09-Jun-2016 11:44:04 UTC] PHP Notice:  Undefined index: user_session in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 19
+[09-Jun-2016 11:45:21 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[09-Jun-2016 11:45:21 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[09-Jun-2016 13:45:42 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[09-Jun-2016 14:39:49 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 7
+[09-Jun-2016 14:48:10 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 5
+[09-Jun-2016 14:48:10 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 8
+[09-Jun-2016 14:54:20 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 5
+[09-Jun-2016 14:54:20 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 8
+[09-Jun-2016 14:56:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 14:56:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 14:57:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 14:58:06 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 14:58:06 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 14:58:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 14:58:07 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 14:58:07 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 14:58:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:00:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:00:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:01:23 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:01:23 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:01:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:01:45 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:01:45 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:03:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:03:32 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:03:32 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:04:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:04:38 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:04:38 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:05:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:05:40 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:05:40 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:05:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:05:45 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:05:45 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:05:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:05:45 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:05:45 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:05:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:05:46 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:05:46 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:05:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:05:46 UTC] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 5
+[09-Jun-2016 15:05:46 UTC] PHP Fatal error:  Using $this when not in object context in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 8
+[09-Jun-2016 15:06:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:06:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:06:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:06:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:06:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:07:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:07:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:07:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:07:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:07:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:07:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:07:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:09:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:09:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:10:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:10:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:10:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:10:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:11:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:11:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:11:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:12:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:12:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:12:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:12:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:12:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:12:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:12:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:12:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:12:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:13:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:13:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:13:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:13:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:13:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:40:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:40:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:40:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:41:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:41:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:41:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:41:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:42:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:45:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:45:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:45:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:45:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:45:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:45:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:45:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:45:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:45:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:45:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:45:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:46:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:48:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:48:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:49:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:49:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:49:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:51:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:51:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:51:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:51:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[09-Jun-2016 15:51:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:51:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[09-Jun-2016 15:59:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:08:08 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[10-Jun-2016 11:08:08 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[10-Jun-2016 13:08:16 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[10-Jun-2016 11:19:38 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[10-Jun-2016 11:19:38 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[10-Jun-2016 13:19:48 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[10-Jun-2016 11:26:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:26:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 11:26:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:26:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 11:27:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:28:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 11:28:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:28:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 11:28:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:28:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 11:28:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:28:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 11:28:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:28:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 11:30:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:57:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:57:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 11:57:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:58:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 11:58:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:01:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:02:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:02:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:02:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:02:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:03:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:03:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:03:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:03:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:03:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:03:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:03:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:03:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:03:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:03:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:03:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:09:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:09:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:09:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:09:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:09:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:09:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:09:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:10:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:39:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:39:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:39:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:39:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:39:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:39:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:39:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:40:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:40:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:40:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:40:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:40:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:40:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:40:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:40:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:40:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:40:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:40:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:40:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:40:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:40:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:40:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:40:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:42:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:42:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 12:42:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:42:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 12:42:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 13:46:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 13:46:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 13:46:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 13:46:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 14:24:08 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 11
+[10-Jun-2016 16:24:48 Europe/Paris] PHP Notice:  Undefined variable: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 45
+[10-Jun-2016 16:24:48 Europe/Paris] PHP Fatal error:  Call to a member function redirect() on a non-object in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 45
+[10-Jun-2016 16:26:44 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 16:27:55 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 16:32:10 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 16:32:10 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 14:32:57 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[10-Jun-2016 14:32:57 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[10-Jun-2016 16:33:04 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[10-Jun-2016 14:33:04 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 16:33:11 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 16:33:11 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 16:34:03 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 16:34:03 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 16:34:52 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 17:27:39 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:27:39 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:28:13 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 17:28:19 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:28:19 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:29:03 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:29:03 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 15:29:26 UTC] PHP Notice:  Undefined index: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/publish_picture.php on line 6
+[10-Jun-2016 15:29:26 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/publish_picture.php on line 7
+[10-Jun-2016 15:29:26 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/publish_picture.php on line 8
+[10-Jun-2016 15:29:26 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/publish_picture.php on line 9
+[10-Jun-2016 15:33:25 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:33:32 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:33:32 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:33:32 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php:24) in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 77
+[10-Jun-2016 17:33:51 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:33:51 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:33:51 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php:24) in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 77
+[10-Jun-2016 17:33:58 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:33:58 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:33:58 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php:24) in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 77
+[10-Jun-2016 15:38:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 15:38:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 15:38:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 15:38:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 15:38:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 15:38:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 15:38:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 15:38:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 15:38:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 15:38:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 15:38:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 15:41:45 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:41:52 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:41:52 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:41:52 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php:24) in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 77
+[10-Jun-2016 15:45:54 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 15:46:04 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 15:47:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 15:47:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 15:53:13 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:53:21 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:53:21 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 17:53:28 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 17:53:51 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:53:51 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 18:05:04 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:05:04 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 16:05:08 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 18:05:13 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:05:13 Europe/Paris] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 16:05:19 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 16:05:29 UTC] PHP Notice:  Undefined index: uploaded in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 24
+[10-Jun-2016 18:08:09 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:10:12 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 18:10:18 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:10:32 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 18:10:39 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:10:39 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/home.php:44) in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 77
+[10-Jun-2016 18:10:53 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:10:53 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/home.php:44) in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 77
+[10-Jun-2016 18:12:22 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:12:22 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/home.php:44) in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 77
+[10-Jun-2016 18:13:29 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 18:13:36 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:13:36 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/cute_galerie.php:45) in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 77
+[10-Jun-2016 18:14:18 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 18:14:22 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 18:14:27 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:14:33 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:14:41 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:15:09 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:16:45 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[10-Jun-2016 16:23:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 16:23:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 16:23:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 16:23:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 18:24:14 Europe/Paris] PHP Parse error:  parse error, expecting `','' or `';'' in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/cute_galerie.php on line 22
+[10-Jun-2016 16:26:29 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[10-Jun-2016 16:26:29 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[10-Jun-2016 18:40:19 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 6
+[10-Jun-2016 18:40:19 Europe/Paris] PHP Notice:  Undefined index: user_session in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 18
+[10-Jun-2016 18:40:29 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[10-Jun-2016 16:40:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[10-Jun-2016 16:40:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[10-Jun-2016 16:40:48 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[10-Jun-2016 16:40:48 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[10-Jun-2016 18:41:09 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 6
+[10-Jun-2016 18:41:09 Europe/Paris] PHP Notice:  Undefined index: user_session in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 18
+[11-Jun-2016 16:59:35 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[11-Jun-2016 17:07:36 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:08:25 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[11-Jun-2016 17:09:14 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 15:18:03 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[11-Jun-2016 15:18:03 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[11-Jun-2016 17:18:09 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[11-Jun-2016 17:22:12 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:22:54 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:22:58 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:24:38 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:25:23 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:25:27 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:45:59 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:46:05 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:57:13 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 17:57:17 Europe/Paris] PHP Warning:  getimagesize(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/upload.php on line 13
+[11-Jun-2016 16:36:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:36:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:36:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:36:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:36:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:36:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:36:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:36:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:36:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:44:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:44:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:44:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:44:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:44:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:44:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:44:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:44:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:44:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:44:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 16:44:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:44:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 18:45:31 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 16:46:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 16:46:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 17:03:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaimepas.php on line 4
+[11-Jun-2016 17:03:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/jaime.php on line 4
+[11-Jun-2016 19:19:02 Europe/Paris] PHP Warning:  include(../Controlers/navigation.php): failed to open stream: No such file or directory in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/home.php on line 12
+[11-Jun-2016 19:19:02 Europe/Paris] PHP Warning:  include(): Failed opening '../Controlers/navigation.php' for inclusion (include_path='.:') in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/home.php on line 12
+[11-Jun-2016 17:20:51 UTC] PHP Warning:  Missing argument 1 for USER::__construct(), called in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/logout.php on line 4 and defined in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 14
+[11-Jun-2016 17:20:51 UTC] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Class/class.user.php on line 16
+[11-Jun-2016 19:21:01 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[11-Jun-2016 20:02:23 Europe/Paris] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 21
+[11-Jun-2016 20:02:23 Europe/Paris] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 20
+[11-Jun-2016 20:02:23 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 20
+[11-Jun-2016 20:02:31 Europe/Paris] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 21
+[11-Jun-2016 20:02:31 Europe/Paris] PHP Notice:  Undefined variable: DB_con in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 20
+[11-Jun-2016 20:02:31 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 20
+[11-Jun-2016 20:23:33 Europe/Paris] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 11:01:35 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 7
+[13-Jun-2016 11:01:35 Europe/Paris] PHP Notice:  Undefined index: user_session in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/home.php on line 19
+[13-Jun-2016 11:01:42 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34
+[13-Jun-2016 11:18:07 Europe/Paris] PHP Notice:  Undefined variable: error in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/index.php on line 34

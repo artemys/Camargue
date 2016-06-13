@@ -1,0 +1,446 @@
+[09-Jun-2016 17:42:21 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:21 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:21 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:21 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:21 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:21 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:21 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:38 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:38 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:38 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:38 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:38 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:38 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:42:38 Europe/Paris] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:50 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[09-Jun-2016 17:46:51 Europe/Paris] PHP Notice:  Array to string conversion in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 81
+[10-Jun-2016 13:08:31 Europe/Paris] PHP Notice:  Undefined index: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 15
+[10-Jun-2016 13:08:31 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 24
+[10-Jun-2016 13:08:31 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 29
+[10-Jun-2016 13:08:31 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 30
+[10-Jun-2016 13:08:31 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 55
+[10-Jun-2016 13:08:31 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 58
+[10-Jun-2016 13:11:05 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:11:05 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:11:05 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:11:05 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:11:05 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:11:05 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:11:05 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:11:05 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:11:14 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:11:14 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:11:14 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:11:14 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:11:14 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:11:14 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:11:14 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:11:14 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:12:20 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:12:20 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:12:20 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:12:20 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:12:20 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:12:20 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:12:20 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:12:20 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:13:15 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:13:15 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:13:15 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:13:15 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:13:15 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:13:15 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:13:15 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:13:15 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:13:28 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:13:28 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:13:28 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:13:28 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:13:28 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:13:28 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:13:28 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:13:28 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:14:46 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:14:46 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:14:46 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:14:46 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:14:46 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:14:46 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:14:46 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:14:46 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:15:30 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:15:30 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:15:30 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:15:30 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:15:30 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:15:30 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:15:30 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:15:30 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:19:52 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:19:52 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:19:52 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:19:52 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:19:52 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:19:52 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:19:52 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:19:52 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:21:33 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:21:33 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:21:33 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:21:33 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:21:33 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:21:33 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:21:33 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:21:33 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:23:10 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:23:10 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:23:10 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:23:10 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:23:10 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:23:10 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:23:10 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:23:10 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:23:25 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:23:25 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:23:25 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:23:25 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:23:25 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:23:25 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:23:25 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:23:25 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:23:46 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:23:46 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:23:46 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:23:46 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:23:46 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:23:46 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:23:46 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:23:46 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 13:24:26 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:24:26 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 13:24:26 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 13:24:26 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 13:24:26 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 13:24:26 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:24:26 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 13:24:26 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 11:25:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 11:26:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 11:30:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 13:52:58 Europe/Paris] PHP Notice:  Undefined index: photo_id in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[10-Jun-2016 13:52:58 Europe/Paris] PHP Notice:  Undefined index: photo_id in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[10-Jun-2016 13:52:58 Europe/Paris] PHP Notice:  Undefined index: photo_id in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[10-Jun-2016 13:52:58 Europe/Paris] PHP Notice:  Undefined index: photo_id in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[10-Jun-2016 13:52:58 Europe/Paris] PHP Notice:  Undefined index: photo_id in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[10-Jun-2016 13:52:58 Europe/Paris] PHP Notice:  Undefined index: photo_id in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[10-Jun-2016 13:52:58 Europe/Paris] PHP Notice:  Undefined index: photo_id in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[10-Jun-2016 13:52:58 Europe/Paris] PHP Notice:  Undefined index: photo_id in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 80
+[10-Jun-2016 13:45:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 17:21:09 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 17:21:09 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 26
+[10-Jun-2016 17:21:09 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[10-Jun-2016 17:21:09 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 32
+[10-Jun-2016 17:21:09 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 57
+[10-Jun-2016 17:21:09 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 17:21:09 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 60
+[10-Jun-2016 17:21:09 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[10-Jun-2016 17:27:42 Europe/Paris] PHP Notice:  Undefined index: uploaded_file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 21
+[10-Jun-2016 17:27:42 Europe/Paris] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 30
+[10-Jun-2016 17:27:42 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[10-Jun-2016 17:27:42 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 36
+[10-Jun-2016 17:27:42 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 61
+[10-Jun-2016 17:27:42 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 64
+[10-Jun-2016 17:28:21 Europe/Paris] PHP Warning:  imagecreatefrompng(): '../Uploads/13340620_10209567966705407_1918005975_o.jpg' is not a valid PNG file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 30
+[10-Jun-2016 17:28:21 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[10-Jun-2016 17:28:21 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 36
+[10-Jun-2016 17:28:21 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 61
+[10-Jun-2016 17:28:21 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 64
+[10-Jun-2016 17:28:57 Europe/Paris] PHP Warning:  imagecreatefrompng(): '../Uploads/13340620_10209567966705407_1918005975_o.jpg' is not a valid PNG file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 30
+[10-Jun-2016 17:28:57 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[10-Jun-2016 17:28:57 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 36
+[10-Jun-2016 17:28:57 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 61
+[10-Jun-2016 17:28:57 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 64
+[10-Jun-2016 17:34:11 Europe/Paris] PHP Warning:  imagecreatefrompng(): '../Uploads/13340620_10209567966705407_1918005975_o.jpg' is not a valid PNG file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 30
+[10-Jun-2016 17:34:11 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[10-Jun-2016 17:34:11 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 36
+[10-Jun-2016 17:34:11 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 61
+[10-Jun-2016 17:34:11 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 64
+[10-Jun-2016 17:41:55 Europe/Paris] PHP Warning:  imagecreatefrompng(): '../Uploads/13340620_10209567966705407_1918005975_o.jpg' is not a valid PNG file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 30
+[10-Jun-2016 17:41:55 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[10-Jun-2016 17:41:55 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 36
+[10-Jun-2016 17:41:55 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 61
+[10-Jun-2016 17:41:55 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 64
+[10-Jun-2016 15:46:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 16:16:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 16:16:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[10-Jun-2016 18:31:43 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 18
+[10-Jun-2016 18:31:58 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 18
+[10-Jun-2016 18:31:58 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 18
+[10-Jun-2016 18:31:59 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 18
+[10-Jun-2016 18:32:00 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 18
+[10-Jun-2016 18:32:14 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 15
+[10-Jun-2016 18:34:54 Europe/Paris] PHP Catchable fatal error:  Object of class USER could not be converted to string in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 35
+[10-Jun-2016 18:39:45 Europe/Paris] PHP Catchable fatal error:  Object of class USER could not be converted to string in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 35
+[10-Jun-2016 18:40:14 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 16
+[10-Jun-2016 18:40:52 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 16
+[10-Jun-2016 18:46:26 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 16
+[10-Jun-2016 18:46:49 Europe/Paris] PHP Catchable fatal error:  Object of class USER could not be converted to string in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 35
+[10-Jun-2016 18:47:01 Europe/Paris] PHP Notice:  Undefined index: user in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 16
+[10-Jun-2016 18:47:15 Europe/Paris] PHP Catchable fatal error:  Object of class USER could not be converted to string in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 35
+[11-Jun-2016 16:56:19 Europe/Paris] PHP Catchable fatal error:  Object of class USER could not be converted to string in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 35
+[11-Jun-2016 16:56:21 Europe/Paris] PHP Catchable fatal error:  Object of class USER could not be converted to string in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/galerie.php on line 35
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:02:12 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:10:26 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 17:10:35 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[11-Jun-2016 15:21:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 15:21:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 15:22:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 15:22:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 15:22:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 16:00:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 16:36:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 18:45:22 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[11-Jun-2016 16:46:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 31
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Warning:  exif_imagetype(): Filename cannot be empty in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 35
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 44
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 45
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Warning:  imagecopy() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 70
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Notice:  Undefined variable: destination in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Controlers/final.php on line 73
+[11-Jun-2016 19:22:08 Europe/Paris] PHP Notice:  Undefined variable: file in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Views/final.php on line 8
+[11-Jun-2016 18:03:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:03:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:04:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[11-Jun-2016 18:05:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 09:01:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 09:02:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:50:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:50:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:53:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:56:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:56:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:56:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:56:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:56:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:56:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:56:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:57:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:57:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:57:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:58:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:58:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:58:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:59:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:59:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 10:59:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 11:02:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 11:02:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 11:23:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 11:23:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 11:23:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 11:23:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:05:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:06:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:06:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:06:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:06:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:07:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3
+[13-Jun-2016 12:09:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /nfs/2014/a/aliandie/http/MyWebSite/Camagru/Config/dbconfig.php on line 3

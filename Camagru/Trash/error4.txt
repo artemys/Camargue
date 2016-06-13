@@ -1,0 +1,68 @@
+	$tableau = array();
+// on ouvre notre dossier contenant les miniatures
+	$dossier = opendir('./image/');
+	while ($fichier = readdir ($dossier)) 
+	{
+		if ($fichier != '.' && $fichier != '..')
+		{
+// on stocke le nom des fichiers des miniatures dans un tableau
+			$tableau[] = $fichier;
+		}
+	}
+	closedir ($dossier);
+
+// on défini le nombre de colonne sur lesquelles vont s'afficher nos miniatures
+	$nbcol=1;
+// on compte le nombre de miniatures
+	$nbpics = count($tableau);
+
+// si on a au moins une miniature, on les affiche toutes
+	if ($nbpics != 0)
+	{
+		// echo '<table>';
+		for ($i=0; $i<$nbpics; $i++)
+		{
+			// if($i%$nbcol==0) 
+				// readfile("image/" . $tableau[$i]);
+			$tmp = "image/" . $tableau[$i];
+			// $tmp = "./" . $tmp; 
+			file_put_contents("./error.txt", $tmp . " ", FILE_APPEND);
+			// file_put_contents("./error.txt", " ");
+
+			// readfile($tmp);
+	// imagepng($destination, $file);
+			?>
+			<img src=$tmp/>
+			<?php
+// pour chaque miniature, on affiche la miniature munie d'un lien vers la photo en taille réelle
+			// echo '<td><a href="/' , $tableau[$i] , '"><img src="mini/' ,  , '" alt="Image" /></a></td>';
+			// if($i%$nbcol==($nbcol-1)) 
+				// print '</br>';
+		}
+
+		// echo '</table>';
+	}
+// si on a aucune miniature, on affiche un petit message :)
+	else echo 'Aucune image à afficher';
+
+
+ 	
+ 	// 	file_put_contents("./error1.txt", $stmt->fetch(), FILE_APPEND);
+
+			
+		// while ($res = $stmt->fetch())
+		// {
+ 	// 		
+ 	// 		echo "<br> <br>";
+
+ 	// 	}
+ 		// unset($photo_id);
+
+
+ 				while ($res = $stmt->fetch())
+ 		{
+ 			if ($res['photo_id'] = $userRow['photo_id'])
+ 				
+	 	}
+
+	 	WHERE '$photo_id' = photo_id
