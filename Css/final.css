@@ -1,0 +1,25 @@
+
+#content
+{
+	width: 900px;
+	margin: auto;
+}
+
+#rendu_final
+{
+	margin-left: 280px;
+	width:320px;
+	height:240px;
+	margin-bottom: 16px;
+}
+
+#button
+{
+	margin-left: 24px;
+}
+
+
+body
+{
+	background-image:url("../abstract-mosaic-background.png");
+}

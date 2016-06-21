@@ -1,0 +1,46 @@
+body
+{
+	background-image: url("../abstract-mosaic-background.png");
+}
+.content
+{
+    background-color: #6677b3;
+    text-align: center;
+    width: 470px;
+    margin-top: 252px;
+    height: 263px;
+    margin-left: 38%;
+    padding: 10px;
+}
+.input
+{
+	height: 37px;
+	width: 155px;
+	border-radius: 10px;
+}
+.btn
+{
+	height: 32px;
+	width: 71px;
+	border-radius: 10px;
+
+}
+
+.link
+{
+	color: white;
+}
+
+.sign_up
+{
+	color: black;
+	font-size: 30px;
+}
+
+@media (max-width: 1280px) {
+	.content
+	{
+		margin-left: 1%;
+	}
+
+}

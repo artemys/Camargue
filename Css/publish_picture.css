@@ -1,0 +1,22 @@
+.message
+{
+	width: 900px;
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+
+}
+
+#home
+{
+	margin-left: 326px;
+}
+body
+{
+	background-image:url("../abstract-mosaic-background.png");
+}
+.header
+{
+	margin-left: 25%;
+}
