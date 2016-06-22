@@ -61,7 +61,6 @@ try
 	$req->bindParam(':offset', $offset, PDO::PARAM_INT);
 	$req->execute();
 	$nb_page = $req->rowCount();
-	$userRow = $req->fetch();
 
 }
 catch (PDOException $e)
@@ -80,12 +79,14 @@ if ($next <= $maxpage)
 echo '<div class="overall"/>';
 while ($nb_page >= 1)
 {
+	$userRow = $req->fetch();
+	
 	echo '<div class="block"/>';
+
 	echo '<div id="photo_id" class="photo" >';
  		echo '<h2 id="name">'.$userRow['photo_auteur'].'</h2>';
  		echo '<img class="img" src="'.$userRow['photo_name'].'" width=320 height=240 />';
 		echo '</div>'; 
-	$userRow = $req->fetch();
 
  		$photo_id = $userRow['photo_id'];
  		try 

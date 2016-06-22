@@ -1,7 +1,7 @@
 <?php
-	
-	require_once '../Config/dbconfig.php';
 	session_start();
+	require_once '../Config/dbconfig.php';
+	
 	$photo_id = htmlentities($_POST['photo_id']);
 	$user = htmlentities($_SESSION['user']);
 	$jaime = 0;

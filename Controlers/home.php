@@ -7,6 +7,10 @@ if (isset($_SESSION['file']))
 {
 	unset($_SESSION['file']);
 }
+// if (isset($_SESSION['upload_file']))
+// {
+// 	unset($_SESSION['upload_file']);
+// }
 if ($user->is_loggedin() == "")
 {
 	$user->redirect('../index.php');

@@ -7,7 +7,7 @@
 	}
 	if (isset($_POST['photo_id']))
 	{
-		$photo_id = htmlentities($_POST['photo_id']);
+		$photo_id = $_POST['photo_id'];
 	}
 	if (isset($_SESSION['user']))
 	{

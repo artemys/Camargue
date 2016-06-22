@@ -22,6 +22,7 @@
 
 		});
 	});
+	
 	var jaimepas = document.getElementsByClassName('jaimepas');
 	Array.prototype.forEach.call(jaimepas, function(el) {
 		el.addEventListener('click', function() {

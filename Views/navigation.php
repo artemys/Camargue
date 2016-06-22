@@ -1,4 +1,4 @@
-<nav class="navigation" align="center">
+<nav class="navigation">
 	<ul>
 	<?php	if (!isset($vanilla)) {?>
 

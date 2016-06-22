@@ -1,3 +1,4 @@
+
 .overall
 {
 	width: 1100px;
@@ -188,5 +189,14 @@ body
     #content
     {
         margin-left: 0;
+    }
+    nav ul li a
+    {
+        padding: 0px 0px;
+    }
+    nav ul
+    {
+        padding: 38px 48px;
+        margin-left: 21%;
     }
 }
